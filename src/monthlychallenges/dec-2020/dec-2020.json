@@ -100,6 +100,12 @@
       ]
     },
     {
+<<<<<<< HEAD
+      "theme": "We resolved git conflicts and helped sync my local repo to Virtual Coffee's.",
+      "participants": [
+        "Nick",
+        "Lucia"
+=======
       "theme": "Advent of Code, Day 9, Part 1 in JavaScript (first half of double session)",
       "participants": [
         "Courtney", 
@@ -136,6 +142,7 @@
       "participants": [
         "Bekah",
         "Dominic"
+>>>>>>> 96074f322a2486157e6abe28e8e85aeb631422f2
       ]
     }
   ]
